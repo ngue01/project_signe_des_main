@@ -1,0 +1,4 @@
+0 Maux_tete_augm
+1 Secours_augm
+2 Vertige_augm
+3 Vomissement_augm
